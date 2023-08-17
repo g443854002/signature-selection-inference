@@ -1,7 +1,7 @@
-# Wright-Fisher Model with Python
+# Infer Selection Coefficient under Wright-Fisher Model with Signature Kernel Scoring Rule
 
 This repository houses Python code developed to simulate allele frequencies following the Wright-Fisher Model. 
-In addition, it includes a PMC (Population Monte Carlo) sampler.
+In addition, it includes a PMC (Population Monte Carlo) sampler. This code is for the paper "Signature-Informed Selection Detection: A Novel Method for Multi-Locus Wright-Fisher Models with Recombination"
 
 ## File Descriptions:
 
