@@ -36,8 +36,8 @@ class EnergyScore(Approx_likelihood):
         stat_obs, stat_sim = self._calculate_summary_stat(y_obs, y_sim)
         
         # preprocess data
-        stat_obs = np.stack([i[1:] for i in stat_obs],axis=0)
-        stat_sim = np.stack([i[1:] for i in stat_sim],axis=0)
+        # stat_obs = np.stack([i[1:] for i in stat_obs],axis=0)
+        # stat_sim = np.stack([i[1:] for i in stat_sim],axis=0)
         # beta as tuning parameter
         beta = 1.5
         # get number of observations
