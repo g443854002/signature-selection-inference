@@ -26,3 +26,5 @@ year={2020}
 - 2-locus Wright-Fisher
 - 3-locus Wright-Fisher
 
+Note that the R files and functions for simulations are from https://github.com/zhangyi-he/WFM-2L-DiffusApprox-PMMH by the paper titled "Detecting and Quantifying Natural Selection at Two Linked Loci from Time Series Data of Allele Frequencies with Forward-in-Time Simulations"
+
